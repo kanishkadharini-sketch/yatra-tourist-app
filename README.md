@@ -302,4 +302,4 @@ Implemented using TypeScript.
 
 **Travel Companion** is a modern web application designed to simplify travel planning by providing destination information, ratings, directions, and estimated costs through an efficient full-stack architecture. By utilizing React, TypeScript, Express, PostgreSQL, and Drizzle ORM, the project demonstrates the practical implementation of contemporary web technologies while providing users with a reliable and interactive travel-planning platform.
 
-This description is suitable for **project reports, GitHub README files, resumes, and viva examinations**.
+
